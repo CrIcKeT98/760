@@ -1,5 +1,5 @@
-CrIcKeT - Gadjimurad Bayramov Rosenovich
-Hell - Arseny Prokofiev
+CrIcKeT - Bayramov Gadjimurad Rosenovich
+Hell - Prokofiev Arseny 
 
 --------------------------------------------------------------------------------
 License for:
@@ -62,7 +62,7 @@ versions of these files, please include the modified versions as an attachment.
 --------------------------------------------------------------------------------
 License for: other assets and files not covered by license above	
 --------------------------------------------------------------------------------
-Copyright (C) Gadjimurad Bayramov Rosenovich and Arseny Prokofiev 2017-2019
+Copyright (C) Bayramov Gadjimurad Rosenovich and Prokofiev Arseny 2017-2019
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
