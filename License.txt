@@ -1,13 +1,14 @@
-CrIcKeT - Gadjimurad Bayramov
+CrIcKeT - Gadjimurad Bayramov Rosenovich
 Hell - Arseny Prokofiev
 
 --------------------------------------------------------------------------------
 License for:
   \metrostroi\systems\*.lua         System simulation Lua files
-  \models\*.*      Art assets for the trains
+  \models\*.*      		    Art assets for the trains
+  \materials\*.*		    Art assets for the trains
 	
 --------------------------------------------------------------------------------
-       Copyright (C) 2017-2019 CrIcKeT & Hell
+       Copyright (C) 2017-2019 CrIcKeT and Hell
                     Last updated: 24th November, 2019
 					
 These files contain proprietary code and assets that belong to CrIcKeT and Hell
