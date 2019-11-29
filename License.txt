@@ -3,7 +3,7 @@ Hell - Prokofiev Arseny Aleksandrovich
 
 --------------------------------------------------------------------------------
 License for:
-  \metrostroi\systems\*.lua       	System simulation Lua files
+  \lua\*.*       			All Lua files
   \models\*.*      		   	Art assets for the trains
   \materials\*.*			Art assets for the trains
   \resource\fonts\bmt-Regular.ttf	Fonts for the trains
