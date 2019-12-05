@@ -51,7 +51,7 @@ Metrostroi Subway Simulator. The following restrictions apply:
    under this license with their permission.
 
 8. It is forbidden to publish various files intended for this addon, as well as 
-publish modified files of this addon.
+publish modified files of this addon without written permission from the authors.
   
 
              A custom license on these files may be obtained by
